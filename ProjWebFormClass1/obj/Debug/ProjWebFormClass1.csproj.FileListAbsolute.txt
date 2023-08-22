@@ -1,0 +1,10 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\bin\ProjWebFormClass1.dll.config
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\bin\ProjWebFormClass1.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\bin\ProjWebFormClass1.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\obj\Debug\ProjWebFormClass1.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\obj\Debug\ProjWebFormClass1.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\obj\Debug\ProjWebFormClass1.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\obj\Debug\ProjWebFormClass1.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\ProjWebFormClass1-master\ProjWebFormClass1\obj\Debug\ProjWebFormClass1.pdb
